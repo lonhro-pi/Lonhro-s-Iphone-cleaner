@@ -137,6 +137,11 @@ Pull requests welcome! Feel free to:
 - Improve error handling
 - Add more cleaning options
 
+  
+## A Debt of Gratitude 
+
+- A huge thank you goes out to my brother Dallas without him I wouldn't had this chance to do this and never turning his back when the chips are down love you brother !
+
 ## Disclaimer
 
 This tool modifies files on your iPhone. While it's designed to be safe, **always backup your data before use**. The authors are not responsible for any data loss.
