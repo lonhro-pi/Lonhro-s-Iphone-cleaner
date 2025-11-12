@@ -29,7 +29,7 @@ If you've forgotten your iPhone passcode and need to recover your device, Apple'
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/yourusername/iphone-cleaner.git
+git clone https://github.com/lonhro-pi/iphone-cleaner.git
 cd iphone-cleaner
 ```
 
